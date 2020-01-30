@@ -1,0 +1,3 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Description
+HM_280	GT	GTGCCAGCMGCCGCGGTAA	HM_280
+HM_782D	AA	GTGCCAGCMGCCGCGGTAA	HM_782D
