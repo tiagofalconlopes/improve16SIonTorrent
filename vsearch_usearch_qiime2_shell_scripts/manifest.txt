@@ -1,0 +1,4 @@
+sample-id,absolute-filepath,direction
+#
+sample1Name,/FULL/PATH/TO/sample1_trimmed_reads.fastq,forward
+sample2Name,/FULL/PATH/TO/sample2_trimmed_reads.fastq,forward
